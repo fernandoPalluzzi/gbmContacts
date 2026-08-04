@@ -1,4 +1,4 @@
-# lstmContacts
+# gbmContacts
 The **gbmContacts** software characterizes and draws atigen-antibody interaction profiles based on a simple input sequence of interactions between antibody (Ab) and antigen (Ag) and an input contact library.
 It is a lightweight, fast, and accurate solution to predict a new antigen's variant impact, by searching and evaluating the efficacy of known antibodies, without requiring computationally-intensive molecular dynamics simulations
 
