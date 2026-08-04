@@ -1,0 +1,23 @@
+name	three_letter	single_letter	biochemical_group	description
+Alanine	Ala	A	aliphatic	Nonpolar neutral
+Isoleucine	Ile	I	aliphatic	Nonpolar neutral
+Leucine	Leu	L	aliphatic	Nonpolar neutral
+Valine	Val	V	aliphatic	Nonpolar neutral
+Methionine	Met	M	aliphatic	Nonpolar neutral, sulfur-containing
+Phenilalanine	Phe	F	aromatic	Nonpolar neutral, large
+Thryptophan	Trp	W	aromatic	Nonpolar neutral, large
+Tyrosine	Tyr	Y	aromatic	Polar hydrophobic, large
+Asparagine	Asn	N	polar	Polar uncharged
+Glutamine	Gln	Q	polar	Polar uncharged
+Serine	Ser	S	polar	Polar uncharged
+Threonine	Thr	T	polar	Polar uncharged
+Arginine	Arg	R	basic	Charged (+)
+Histidine	His	H	basic	Charged (+)
+Lysine	Lys	K	basic	Charged (+)
+Aspartate	Asp	D	acidic	Charged (-)
+Glutamate	Glu	E	acidic	Charged (-)
+Glycine	Gly	G	tiny	Hydrogen side chain (tiny)
+Proline	Pro	P	cyclic	Cyclic nonpolar neutral
+Cysteine	Cys	C	sbridge	Charged (-), SH-containing polar
+Selenocysteine	Sec	U	selenium	Charged (-), SeH-containing polar
+Pyrrolysine	Pyr	O	amber	Charged (+), Bacteria and Archaea
