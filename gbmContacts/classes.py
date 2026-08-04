@@ -561,7 +561,7 @@ class AbAgInteractionPredictor():
         # Train Random Forest
         self.rf_model = RandomForestRegressor(
             n_estimators = n_estimators,
-            rfm_depth = rfm_depth,
+            max_depth = rfm_depth,
             min_samples_split = min_samples_split,
             random_state = random_state,
             n_jobs = -1
