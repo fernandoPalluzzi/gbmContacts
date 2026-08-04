@@ -15,8 +15,7 @@ What **gbmContacts** cannot do:
 
 ## Requirements
 
-This is a small Python library, with a small set of requirements:
-- 
+...
 
 ## Installation
 
