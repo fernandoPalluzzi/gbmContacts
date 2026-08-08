@@ -64,8 +64,8 @@ except ImportError:
 
 class RiskLevel(Enum):
     """Risk classification levels"""
-    UNMANAGEABLE = (0, 0.80, "Unmanageable")
-    PARTIALLY_MANAGEABLE = (0.00, 0.88, "Partially Manageable")
+    UNMANAGEABLE = (0.00, 0.70, "Unmanageable")
+    PARTIALLY_MANAGEABLE = (0.70, 0.88, "Partially Manageable")
     MANAGEABLE = (0.88, 1.01, "Manageable")
 
     def classify(self, score: float) -> str:
