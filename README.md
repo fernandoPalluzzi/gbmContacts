@@ -76,7 +76,7 @@ The number of rows of the metadata table must have the same number of columns of
 
 The contact map is a table reporting every single known Ab-Ag interaction per row, described by 3 attributes:
 - **antibody**: a single-word Ab name (e.g., the PDB ID) from the same set of names used in the metadata;
-- **residue**: the Ab residue participating in the Ab-Ag interaction, must follow the same format as the affinity data table (i.e., CHAIN.residuePosition).
+- **residue**: the Ab residue participating in the Ab-Ag interaction, must follow the same format as the affinity data table (i.e., CHAIN.ResiduePosition).
 - **contact**: the Ag residue participating in the Ab-Ag interaction, must follow the format <RESIDUE><POSITION>.
 
 #### 2.3. Contact mutations
