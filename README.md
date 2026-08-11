@@ -125,7 +125,7 @@ The last data structure is a table with two attributes, residue and class, repor
 
 ## 2. Ab-Ag complex prediction of affinity, stability, and health risk.
 
-All the following steps can be easily executed through out [gbmContacts Jupyter notebook](https://github.com/fernandoPalluzzi/gbmContacts/blob/main/gbm_contacts.ipynb).
+All the following steps can be easily executed through our [gbmContacts Jupyter notebook](https://github.com/fernandoPalluzzi/gbmContacts/blob/main/gbm_contacts.ipynb).
 
 The first step is to load all the required datasets and generate an AbAgInteractionPredictor instance (input data tables can be passed as tab-separated text files or any data format convertible into a Pandas DataFrame):
 
