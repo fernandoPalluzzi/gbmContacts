@@ -83,8 +83,8 @@ The contact map is a table reporting every single known Ab-Ag interaction per ro
 
 The contact mutations table reports a known mutation per row, and includes the following attributes:
 - **variant**: a variant name consistent with the ones used in the metadata table;
-- **wt**: wild-type Ag residue in the form <RESIDUE><POSITION> (e.g., N501);
-- **mutant**: mutant Ag residue in the form <RESIDUE><POSITION> (e.g., Y501);
+- **wt**: wild-type Ag residue in the form ResiduePosition (e.g., N501);
+- **mutant**: mutant Ag residue in the form ResiduePosition (e.g., Y501);
 - **wt.group**: wt amino acid biochemical group (see next section);
 - **mutant.group**: mutant amino acid biochemical group (see next section).
 
